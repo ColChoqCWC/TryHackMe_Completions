@@ -10,3 +10,7 @@
 
 <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-PP1SFLXWOI.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 
+<h2>Cyber Defense</h2>
+
+<img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-AJ2BIDKTMU.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+
